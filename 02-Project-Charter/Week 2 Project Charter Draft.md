@@ -1,6 +1,7 @@
 # Project Charter — RCHN Intake & Scheduling System Replacement
 
-**Prepared by:** Savion Crockett, Associate Consultant, NovaTech Consulting**
+**Prepared by:** Savion Crockett, Associate Consultant, NovaTech Consulting
+
 **Date:** September 13, 2026
 
 ## Business Need
