@@ -13,6 +13,6 @@ This project includes the following high-level areas of work:
 1. Patient intake – replacing the current intake process with the new system
 2. Appointment scheduling – implementing standardized scheduling across all clinics
 3. Staff training – preparing clinic staff to use the new system
-4. Initial rollout support – supporting the go-live transition at each of the six locationsb
+4. Initial rollout support – supporting the go-live transition at each of the six locations
 ## Success Criteria
 Clinic staff can regularly schedule patients accurately and consistently across all six clinic locations, and leadership can generate reliable reporting from the new and improved system.
