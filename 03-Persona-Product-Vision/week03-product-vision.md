@@ -46,3 +46,4 @@ For IT Support Staff at RCHN's six clinics who need to acknowledge failures from
 
 A unified system with consistent workflow and clear confirmation states help resolve this root cause. The intended outcome is to receive fewer redundant tickets and instill confidence in the system's reliability. Additionally, this allows RCHN to see value in a more trustworthy, consistent intake and scheduling experience throughout all six clinics.
 ##
+*Prepped and prepared as part of the NovaTech Consulting engagement with Riverside Community Health Network (RCHN), Week 3 deliverable.*
