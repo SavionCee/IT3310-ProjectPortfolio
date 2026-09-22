@@ -37,3 +37,5 @@ The Product Manager's main focus is what the team essentially builds and develop
 
 **What Would Improve Their Work:** A single, standardized system across all clinics providing clear error messages and confirmation states, so fewer tickets stem from slight confusion rather than technical failure.
 ## 4. Product Vision Statement
+For IT Support Staff at RCHN's six clinics who need to acknowledge failures from user confusion caused by an inconsistent, unreliable intake process, a new intake and scheduling system will reduce unnecessary support tickets and give staff confidence that patient data is accurately and consistently saved.
+##
