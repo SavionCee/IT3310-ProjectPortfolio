@@ -19,3 +19,6 @@ The Product Manager's main focus is what the team essentially builds and develop
 *User Type:* IT Support Staff
 
 *Why it matters:* The current system is unclear on the confirmation of data being saved, therefore the IT support staff cannot tell whether an issue is an actual system failure or user uncertainty. This results in the various help-desk tickets for the same problem, intaking support time that could be used for other work. Acknowledging this need significantly reduces unnecessary support load and increases the team's ability to trust the new system.
+## 3. User Persona: IT Support Staff
+**Attribute**     **Detail**
+Name
