@@ -24,10 +24,16 @@ The Product Manager's main focus is what the team essentially builds and develop
 **Attribute:** Detail
 
 **Name:** Jack Roberts
+
 **Role:** IT Support Staff
+
 **Years in Role:** 5 Years
-**Tech Comfort Level:** Consistent/Confident
+
+**Tech Comfort Level:** Consistent/Confident/Expert
+
 **Primary Work Goal:** To keep patient intake and scheduling systems running consistently and effectively across all six clinics so that clinical staff aren't prevented by technical issues.
+
 **Main Frustrations:** Fields repeated help-desk tickets from intake coordinators about inconsistencies in screens and appointments that don't save. Without clear system logs or confirmation, it's difficult to figure out whether it's a user error or real system bug. The same issues get reported over and over.
+
 **What Would Improve Intake Coordinators' Work:** A single, standardized system across all clinics providing clear error messages and confirmation states, so fewer tickets stem from slight confusion rather than technical failure.
 ## 4. Product Vision Statement
