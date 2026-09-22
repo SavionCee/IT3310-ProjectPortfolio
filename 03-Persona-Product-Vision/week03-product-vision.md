@@ -35,5 +35,5 @@ The Product Manager's main focus is what the team essentially builds and develop
 
 **Main Frustrations:** Fields repeated help-desk tickets from intake coordinators about inconsistencies in screens and appointments that don't save. Without clear system logs or confirmation, it's difficult to figure out whether it's a user error or real system bug. The same issues get reported over and over.
 
-**What Would Improve Intake Coordinators' Work:** A single, standardized system across all clinics providing clear error messages and confirmation states, so fewer tickets stem from slight confusion rather than technical failure.
+**What Would Improve Their Work:** A single, standardized system across all clinics providing clear error messages and confirmation states, so fewer tickets stem from slight confusion rather than technical failure.
 ## 4. Product Vision Statement
