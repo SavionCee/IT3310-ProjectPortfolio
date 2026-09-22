@@ -9,7 +9,7 @@
 **Date:** 09/22/2026
 ## 1. Product Manager Role Analysis
 The Product Manager and Project Manager roles are related but focused on different questions. 
-The Product Manager's main focus is what the team essentially builds and develops and why it matters. This means researching users, defining a clear product vision, and prioritizing features based on user need and business value. The Product Manager's team is anchored to the question: does the decision satisfy the user's needs and the goals of RCHN?
+The Product Manager's main focus is what the team essentially builds and develops and why it matters. This means researching users, defining a clear product vision, and prioritizing features based on user need and business value. On the RCHN engagement, the Product Manager acknowledges that both intake coordinators and IT support staff need a more consistent, reliable scheduling workflow (As it is a prioritized need) across RCHN's six clinics. The Project Manager then uses that prioritized need to progress in the project schedule to decide what is built first. The Product Manager discovers what matters most and why while the Project Manager turns that into a thorough and realistic plan to deliver it. The Product Manager's team is anchored to the question: does the decision satisfy the user's needs and the goals of RCHN?
 ## 2. Customer Needs Identification
 **Need 1:** Consistent Patient Intake and scheduling workflows across all six clinics
 
