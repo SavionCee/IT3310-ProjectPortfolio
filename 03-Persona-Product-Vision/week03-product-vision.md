@@ -10,8 +10,9 @@ The Product Manager's main focus is what the team essentially builds and develop
 ## 2. Customer Needs Identification
 **Need 1:** Consistent Patient Intake and scheduling workflows across all six clinics
 
-User Type: Intake Coordinators
-Why it matters: intake coordinators encounter far too many screens and will not always confirm if an appointment was saved. Since workflows are not standardized across all RCHN's six clinics, coordinators are not able to rely on a consistent process. This increases risk of scheduling errors and directly affects patient experience and clinic efficiency, therefore causing it to be a priority need for the project.
+*User Type:* Intake Coordinators
+
+*Why it matters:* intake coordinators encounter far too many screens and will not always confirm if an appointment was saved. Since workflows are not standardized across all RCHN's six clinics, coordinators are not able to rely on a consistent process. This increases risk of scheduling errors and directly affects patient experience and clinic efficiency, therefore causing it to be a priority need for the project.
 
 **Need 2:** Clearing the system feedback to differentiate between real failures and user confusion
 User Type: IT Support Staff
