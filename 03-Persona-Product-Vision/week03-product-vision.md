@@ -39,3 +39,7 @@ The Product Manager's main focus is what the team essentially builds and develop
 ## 4. Product Vision Statement
 For IT Support Staff at RCHN's six clinics who need to acknowledge failures from user confusion caused by an inconsistent, unreliable intake process, a new intake and scheduling system will reduce unnecessary support tickets and give staff confidence that patient data is accurately and consistently saved.
 ##
+**Rationale:** This vision focuses directly on these RCHN findings: intake coordinators  report too many screens, a deep uncertainty about appointment saving, and inconsistent workflows across all clinics. These conditions cause friction for Support Staff, deciphering whether a report reflects a true defect or user confusion.
+
+A unified system with consistent workflow and clear confirmation states help resolve this root cause. The intended outcome is to receive fewer redundant tickets and instill confidence in the system's reliability. Additionally, this allows RCHN to see value in a more trustworthy, consistent intake and scheduling experience throughout all six clinics.
+##
