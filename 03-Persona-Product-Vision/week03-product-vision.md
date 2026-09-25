@@ -1,4 +1,4 @@
-# User Persona and Product Vision Statement: RCHN Patient Intake and Scheduling System
+# User Persona and Product Vision: RCHN Patient Intake and Scheduling System
 **Consultant:** Savion Crockett
 **Role:** Associate Consultant, Product Manager, NovaTech Consulting
 **Engagement:** Riverside Community Health Network (RCHN)
@@ -19,24 +19,26 @@ The Product Manager's main focus is what the team essentially builds and develop
 *User Type:* IT Support Staff
 
 *Why it matters:* The current system is unclear on the confirmation of data being saved, therefore the IT support staff cannot tell whether an issue is an actual system failure or user uncertainty. This results in the various help-desk tickets for the same problem, intaking support time that could be used for other work. Acknowledging this need significantly reduces unnecessary support load and increases the team's ability to trust the new system.
-## 3. User Persona: IT Support Staff
-
+---
+## User Persona
 **Name:** Jack Roberts
-
 **Role:** IT Support Staff
-
 **Years in Role:** 5 Years
-
 **Tech Comfort Level:** Expert
-
-**Primary Work Goal:** To keep patient intake and scheduling systems running consistently and effectively across all six clinics so that clinical staff aren't prevented by technical issues.
-
-**Main Frustrations:** Fields repeated help-desk tickets from intake coordinators about inconsistencies in screens and appointments that don't save. Without clear system logs or confirmation, it's difficult to figure out whether it's a user error or real system bug. The same issues get reported over and over.
-
-**What Would Improve Their Work:** A single, standardized system across all clinics providing clear error messages and confirmation states, so fewer tickets stem from slight confusion rather than technical failure.
-## 4. Product Vision Statement
+---
+### Primary Work Goal
+To keep patient intake and scheduling systems running consistently and effectively across all six clinics so that clinical staff aren't prevented by technical issues.
+---
+### Main Frustration with the Current System 
+Fields repeated help-desk tickets from intake coordinators about inconsistencies in screens and appointments that don't save. Without clear system logs or confirmation, it's difficult to figure out whether it's a user error or real system bug. The same issues get reported over and over.
+---
+### What Would Make Their Work Better 
+A single, standardized system across all clinics providing clear error messages and confirmation states, so fewer tickets stem from slight confusion rather than technical failure.
+---
+## Product Vision Statement
 For IT Support Staff at RCHN's six clinics who need to distinguish system failures from user confusion caused by an inconsistent, unreliable intake process, a new intake and scheduling system will reduce unnecessary support tickets and give staff confidence that patient data is accurately and consistently saved.
-##
+---
+
 **Rationale:** This vision focuses directly on these RCHN findings: intake coordinators  report too many screens, a deep uncertainty about appointment saving, and inconsistent workflows across all clinics. These conditions cause friction for Support Staff, deciphering whether a report reflects a true defect or user confusion.
 
 A unified system with consistent workflow and clear confirmation states helps resolve this root cause. The intended outcome is to receive fewer redundant tickets and instill confidence in the system's reliability. Additionally, this allows RCHN to see value in a more trustworthy, consistent intake and scheduling experience throughout all six clinics.
