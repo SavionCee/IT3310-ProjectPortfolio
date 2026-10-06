@@ -28,6 +28,7 @@ By the end of the 90-day initial rollout support period, IT support staff across
 ### Objective 2
 By completion of staff training at all six RCHN clinics, intake coordinators will be able to complete standardized intake and scheduling workflows utilizing the new system, as verified by sponsor-approved training completion records and workflow acceptance criteria.
 **Connection to Product Vision:** This objective is informed by the product vision because research findings and customer needs identification discovered that intake coordinators need a more consistent, reliable workflow at all six clinics. Staff training for use of the new system is a confirmed in-scope item from the charter. 
+
 ---
 ## Planning Constraints
 ### Constraint 1
