@@ -18,6 +18,7 @@ Product Owner: NovaTech Product Manager. This Assignment makes sense because thi
 Scrum Master: NovaTech Consultant. This role is responsible for developing Scrum, coaching the team's self-management, ridding of any impediments, and pushing for more improvement.
 
 Developers: NovaTech Implementation Team. Developers build increments for each Sprint Plan. NovaTech develops the replacement system, therefore the implementation staff conduct hands-on work. This makes sense as IT support staff at RCHN are the stakeholders and aren't part of the Scrum Team.
+
 ---
 ## Sprint 1 Plan
 **Sprint Goal:** Define and analyze the intake and scheduling workflow that will be the foundation across all six RCHN clinics.
