@@ -39,6 +39,6 @@ These selected items form a coherent plan because Scheduling Workflow Prototype 
 One impediment that could affect progress toward the Sprint Goal would be not having much availability for feedback or review from clinic staff, due to intake coordinators patient volume being managed at RCHN's six clinics. The Scrum Master could help the Scrum Team by coordinating with clinic leadership and finding time to provide staff feedback without deciding how workflow should look.
 
 ### Preparing for Week 7
-The Sprint Planning will help mem build and prioritize the product backlog by focusing first on the highly prioritized areas of work. Scheduling Workflow Prototype and Intake Form Standardization are the foundation to ensuring that other areas like the Clinic Staff Training Outline and Legacy Data Cleanup Review will be structured more professionally.
+The Sprint Planning will help me build and prioritize the product backlog by focusing first on the highly prioritized areas of work then the others second. Scheduling Workflow Prototype and Intake Form Standardization are the foundation to ensuring that other areas like the Clinic Staff Training Outline and Legacy Data Cleanup Review will be structured more professionally.
 ---
 *NovaTech Consulting | IT 3310 | Governors State University | Fall 2026*
